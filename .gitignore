@@ -1,0 +1,15 @@
+data
+save
+*.pyc
+*.sh.log*
+.idea/
+*__pycache__
+*.pyc
+.idea/*
+*.so
+*egg-info*
+*.avi
+*.pdf
+*.xyz
+*.zip
+*.obj
