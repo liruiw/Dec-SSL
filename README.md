@@ -1,5 +1,5 @@
-# Does Self-Supervised Learning Excel at Handling Decentralized and Non-IID Unlabeled Data? 
-This is the PyTorch implementation of the [paper]() "Does Self-Supervised Learning Excel at Handling Decentralized and Non-IID Unlabeled Data?".  
+#  Does Decentralized Learning with non-IID Unlabeled Data Benefit from Self Supervision?
+This is the PyTorch implementation of the [paper](https://arxiv.org/abs/2210.10947) "Does Decentralized Learning with non-IID Unlabeled Data Benefit from Self Supervision?".  
 ![image](misc/comparison.png)
 
 ## Requirments
@@ -80,7 +80,7 @@ If you find Dec-SSL useful in your research, please consider citing:
 @inproceedings{wang2022does,
 	author    = {Lirui Wang, Kaiqing Zhang, Yunzhu Li, Yonglong Tian, and Russ Tedrake},
 	title     = {Does Self-Supervised Learning Excel at Handling Decentralized and Non-IID Unlabeled Data?},
-	booktitle = {arXiv:2012.00824},
+	booktitle = {arXiv:2210.10947},
 	year      = {2022}
 }
 ```
